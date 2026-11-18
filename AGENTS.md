@@ -1,0 +1,2 @@
+- Use MapLibre as the only field-map renderer so every account has one consistent mapping experience.
+- Keep local demo authentication restricted to development; production must use Supabase authentication and RLS.
